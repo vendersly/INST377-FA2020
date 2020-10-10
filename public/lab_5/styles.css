@@ -35,6 +35,7 @@ input{
 button{
     display: flex;
     margin-left: 0px;
+    margin-right: 10px;
     padding: 6px 12px;
     text-transform: uppercase;
     letter-spacing: 1.2px;
@@ -43,8 +44,8 @@ button{
 .flex-inner li{
 display: flex;
 justify-content: space-between;
-width: 80px;
-max-width: 95px;
+width: 85px;
+max-width: 85px;
 }
 .flex-inner{
     display: flex;
